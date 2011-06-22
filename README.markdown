@@ -12,3 +12,5 @@ For more information, visit http://lessframework.com/
 # Usage
 
 Solid knowledge of HTML and CSS is recommended. You'll find the dimensions for each layout noted down in comments within the CSS files.
+
+Less Framework is licensed under MIT: http://opensource.org/licenses/mit-license.php

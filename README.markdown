@@ -2,6 +2,10 @@ Less Framework is a CSS grid system for designing adaptive web sites. It contain
 
 For more information, visit http://lessframework.com/
 
+# Differences to the version at lessframework.com
+
+The [configurable version](http://lessframework.com/) lets you choose between three sets of type presets, as well as lets you add an optional Retina media query and the [http://code.google.com/p/html5shim/](HTML5 Shim). In this version, the type presets have been split into three versions of the main CSS file, all of which also include the Retina media query. The HTML5 Shim is not included.
+
 # Included files
 
 - main.html: Required HTML
